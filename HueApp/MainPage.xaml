@@ -57,7 +57,6 @@ THE SOFTWARE.
     </Grid>
     <Page.BottomAppBar>
         <CommandBar>
-            <AppBarToggleButton x:Name="BluetoothWatcherToggle" Click="BluetoothWatcher_Click" Icon="Street" Label="Toggle Bluetooth LE" ToolTipService.ToolTip="Toggle Bluetooth LE"></AppBarToggleButton>
             <AppBarButton x:Name="LightRefreshButton" Click="LightRefresh_Click" Icon="Refresh" Label="Reload lights" ToolTipService.ToolTip="Reload lights"></AppBarButton>
         </CommandBar>
     </Page.BottomAppBar>
